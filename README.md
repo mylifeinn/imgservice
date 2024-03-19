@@ -14,6 +14,11 @@
 ![finder](https://github.com/mylifeinn/imgservice/assets/61771600/7a0e40dc-cda5-4da6-bc72-5077f3e44e8a)
 ![dockerMapping](https://github.com/mylifeinn/imgservice/assets/61771600/cb620415-792f-44ba-8d74-ba6343478fad)
 ![dockerLogs](https://github.com/mylifeinn/imgservice/assets/61771600/597c2f49-611b-4355-8704-657cef0c0e7c)
+![github](https://github.com/mylifeinn/imgservice/assets/61771600/01600be5-051f-4478-bc18-ee8c442f027d)
+![nginx](https://github.com/mylifeinn/imgservice/assets/61771600/e3028690-2c4d-4c00-9774-51187ba5a35f)
+
+
+
 
 
 
