@@ -26,6 +26,8 @@
 ![pcb](https://github.com/mylifeinn/imgservice/assets/61771600/ef166ff6-7182-4cd0-9f9e-da9a5c647f62)
 ![putty](https://github.com/mylifeinn/imgservice/assets/61771600/29968106-7e11-4e35-82eb-65c54d18fa57)
 ![spring](https://github.com/mylifeinn/imgservice/assets/61771600/285d1c54-fd59-4fbf-890c-a8f5ea65b5ad)
+![gitlab1](https://github.com/mylifeinn/imgservice/assets/61771600/7e26982f-5ef3-4b3f-88cd-a0531dcd1f06)
+
 
 
 
