@@ -31,6 +31,8 @@
 ![adb](https://github.com/mylifeinn/imgservice/assets/61771600/241b7147-b87c-42d7-a4a3-8b446a628789)
 ![toolsite](https://github.com/mylifeinn/imgservice/assets/61771600/c9a6ac6d-b90c-4896-9fc3-fb2a50bc4932)
 <img width="1439" alt="image" src="https://github.com/mylifeinn/imgservice/assets/61771600/f4ea5226-8818-4f2b-8e45-0f7a1bfbaabb">
+![labelprinter](https://github.com/mylifeinn/imgservice/assets/61771600/b4678b03-bd8e-43b8-bb98-86dce561cd01)
+
 
 
 
