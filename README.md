@@ -34,6 +34,8 @@
 ![labelprinter](https://github.com/mylifeinn/imgservice/assets/61771600/b4678b03-bd8e-43b8-bb98-86dce561cd01)
 ![mysqldump](https://github.com/mylifeinn/imgservice/assets/61771600/dc028905-6260-4246-8a6c-99978550241e)
 ![image](https://github.com/mylifeinn/imgservice/assets/61771600/243f61a1-d990-4b5f-a517-8a526ed5afc9)
+![ppidpi](https://github.com/user-attachments/assets/d8d5060c-fba1-4251-a796-e4fd071476a3)
+
 
 
 
