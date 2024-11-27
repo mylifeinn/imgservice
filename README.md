@@ -35,6 +35,8 @@
 ![mysqldump](https://github.com/mylifeinn/imgservice/assets/61771600/dc028905-6260-4246-8a6c-99978550241e)
 ![image](https://github.com/mylifeinn/imgservice/assets/61771600/243f61a1-d990-4b5f-a517-8a526ed5afc9)
 ![ppidpi](https://github.com/user-attachments/assets/d8d5060c-fba1-4251-a796-e4fd071476a3)
+![tax](https://github.com/user-attachments/assets/ec8fafcd-ae3d-4a63-98df-4d3a459057c9)
+
 
 
 
