@@ -36,6 +36,8 @@
 ![image](https://github.com/mylifeinn/imgservice/assets/61771600/243f61a1-d990-4b5f-a517-8a526ed5afc9)
 ![ppidpi](https://github.com/user-attachments/assets/d8d5060c-fba1-4251-a796-e4fd071476a3)
 ![tax](https://github.com/user-attachments/assets/ec8fafcd-ae3d-4a63-98df-4d3a459057c9)
+![tire](https://github.com/user-attachments/assets/f4aa09bf-4a28-40ba-886a-42e57f1b6a48)
+
 
 
 
